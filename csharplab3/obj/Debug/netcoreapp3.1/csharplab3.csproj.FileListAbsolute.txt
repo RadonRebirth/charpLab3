@@ -1,0 +1,14 @@
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\bin\Debug\netcoreapp3.1\csharplab3.exe
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\bin\Debug\netcoreapp3.1\csharplab3.deps.json
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\bin\Debug\netcoreapp3.1\csharplab3.runtimeconfig.json
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\bin\Debug\netcoreapp3.1\csharplab3.runtimeconfig.dev.json
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\bin\Debug\netcoreapp3.1\csharplab3.dll
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\bin\Debug\netcoreapp3.1\csharplab3.pdb
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\obj\Debug\netcoreapp3.1\csharplab3.csproj.AssemblyReference.cache
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\obj\Debug\netcoreapp3.1\csharplab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\obj\Debug\netcoreapp3.1\csharplab3.AssemblyInfoInputs.cache
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\obj\Debug\netcoreapp3.1\csharplab3.AssemblyInfo.cs
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\obj\Debug\netcoreapp3.1\csharplab3.csproj.CoreCompileInputs.cache
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\obj\Debug\netcoreapp3.1\csharplab3.dll
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\obj\Debug\netcoreapp3.1\csharplab3.pdb
+C:\Users\IVM505\source\repos\csharplab3\csharplab3\obj\Debug\netcoreapp3.1\csharplab3.genruntimeconfig.cache
